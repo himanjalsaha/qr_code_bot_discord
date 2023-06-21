@@ -34,6 +34,4 @@ Replace `<link>` with the URL for which you want to generate a QR code. The bot 
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions are welcome!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
